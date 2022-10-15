@@ -1,13 +1,9 @@
-# nasa-api-app
-# Movie Mania
+# NASA A PICTURE A DAY APP
 
-Please check out the working [live site here](https://taupe-zabaione-9972df.netlify.app/). 
-
-![movie-mania](https://user-images.githubusercontent.com/57625094/176612545-5b847e23-daba-4998-89be-e15488ef5aaa.gif)
 
 ## How it's made. 
 
-**Tech Used**: React, Tailwind, Node.js, Express.js, MongoDB - MERN + Tailwind
+**Tech Used**: Node.js, Express.js, MongoDB - MERN 
 I really dug into React and Tailwin initially to build out the original movie app. After the first day, I was really suprised at how easy and fun it was to build with this technology and I wanted to extend my learning to the full-stack. It took longer to complete the project than expected, but I'm satisfied with everything that is live. 
 
 ## Optimizations
