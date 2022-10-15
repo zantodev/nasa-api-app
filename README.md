@@ -3,7 +3,7 @@
 
 ## How it's made. 
 
-**Tech Used**: Node.js, Express.js, MongoDB - MERN 
+**Tech Used**: HTML | CSS | JAVASCRIPT | API'S
 I really dug into React and Tailwin initially to build out the original movie app. After the first day, I was really suprised at how easy and fun it was to build with this technology and I wanted to extend my learning to the full-stack. It took longer to complete the project than expected, but I'm satisfied with everything that is live. 
 
 ## Optimizations
