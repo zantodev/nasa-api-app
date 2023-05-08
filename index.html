@@ -5,34 +5,29 @@
     <meta name="description" content="This is where your description goes" />
     <meta name="keywords" content="one, two, three" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;900&family=Poppins:wght@400;500;600;700;800;900&family=Roboto&display=swap"
-      rel="stylesheet"
-    />
-
-    <title>NASA POTD</title>
+    <title>NASA PICTURE OF THE DAY</title>
 
     <!-- external CSS link -->
-    <link rel="stylesheet" href="/css/normalize.css" />
     <link rel="stylesheet" href="/css/style.css" />
   </head>
   <body>
-    <div class="text-w">
-      <div class="container top">
-        <div class="title">
+    <div class="container">
+      <div class="header">
+        <div class="text-center header-settings">
+          <h2>Welcome to,</h2>
           <h1>NASA Picture Of The Day</h1>
+          <p>Powered by api.nasa.gov</p>
         </div>
 
-        <div class="container input">
-          <input type="date" name="" value="" />
+        <div class="input">
+          <p class="clue">Choose a date:</p>
+          <input type="date" name="" value="" placeholder="" />
           <button class="btn" type="button" name="button">Get Media</button>
         </div>
+      </div>
 
-        <div class="container text">
-          <h2>NASA RULES!</h2>
-        </div>
+      <div class="title">
+        <h1>NASA RULES!</h1>
       </div>
 
       <div class="image">
@@ -40,7 +35,7 @@
         <!-- <iframe src="" frameborder="0"></iframe> -->
       </div>
 
-      <div class="container explanation">
+      <div class="text-center">
         <h3>Explanation</h3>
       </div>
     </div>
